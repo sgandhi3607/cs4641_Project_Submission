@@ -20,6 +20,3 @@ Refer below for source of datasets:
 Wisconsin Breast Cancer Dataset :
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 
-US Census Income:
-https://archive.ics.uci.edu/ml/datasets/census+income
-
